@@ -1,0 +1,30 @@
+[
+    {
+  "description": "Friendly OpenSea cartoon logos.", 
+  "external_url": "https://kba.ai/", 
+  "image": "https://turquoise-adverse-goat-559.mypinata.cloud/ipfs/QmP5bX2cVEkabpfygrzanqCfjYpYY4cL91AnwSXg2yNMtH", 
+  "name": "mdb logo",
+  "attributes": [ {
+      "trait_type": "Base", 
+      "value": "Cartoon Logo"
+    }, 
+    {
+      "trait_type": "prop", 
+      "value": "Laptop"
+    } ]
+},
+{
+  "description": "Friendly OpenSea mdb logos.", 
+  "external_url": "https://kba.ai/", 
+  "image": "https://turquoise-adverse-goat-559.mypinata.cloud/ipfs/QmewTQC7qN2vKxpUjaHXi8CtYkyw4pmzdS6GSRpdnhBi8V", 
+  "name": "mdb logo",
+  "attributes": [ {
+      "trait_type": "Base", 
+      "value": "mdb Logo"
+    }, 
+    {
+      "trait_type": "prop", 
+      "value": "Leaf"
+    } ]
+}
+]
